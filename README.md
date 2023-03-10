@@ -10,16 +10,16 @@
 
 ### Jennifer Doudna
 
-- Ganadora del premio nobel en química
-- Doudna se ha centrado en la comprensión de la estructura y función de las moléculas de ARN,
+- Ganadora del premio nobel en química.
+- Doudna se ha centrado en la comprensión de la estructura y función de las moléculas de ARN.
 - En 2012, ella y su colaboradora, publicaron artículo describiendo el desarrollo del sistema de edición genética.
 - Defensora del uso responsable de edición genética y promueve comprensión, beneficios y riesgos de estas tecnologías.
 
 ### Hechos
 
-- Ya ha sido utilizada para editar el adn de monos y embriones
-- Se ha removido el VIH del adn
-- Ha curado la anemia y el alzheimer
+- Ya ha sido utilizada para editar el adn de monos y embriones.
+- Se ha removido el VIH del adn.
+- Ha curado la anemia y el alzheimer.
 
 ### Analogía
 
@@ -31,3 +31,7 @@
 Doudna, J. A., & Charpentier, E. (2014). The new frontier of genome engineering with CRISPR-Cas9. Science, 346(6213), 1258096. **[https://doi.org/10.1126/science.1258096](https://doi.org/10.1126/science.1258096)**
 
 Hsu, P. D., Lander, E. S., & Zhang, F. (2014). Development and applications of CRISPR-Cas9 for genome engineering. Cell, 157(6), 1262-1278. **[https://doi.org/10.1016/j.cell.2014.05.010](https://doi.org/10.1016/j.cell.2014.05.010)**
+
+### Autor
+
+Felipe Vallejo
