@@ -24,7 +24,7 @@
 ### Analogía
 
 - Imagina que eres un escritor que está trabajando en un manuscrito y quieres hacer algunos cambios en el texto. Sin embargo, no quiere reescribir todo el manuscrito desde cero porque eso le llevaría mucho tiempo y esfuerzo. En su lugar, decide utilizar una herramienta como "Buscar y reemplazar" en su ordenador, que le permite buscar palabras o frases específicas y reemplazarlas por otra cosa.
-- CRISPR funciona de forma similar: utiliza una molécula llamada ARN como guía para encontrar la secuencia de ADN diana, y una enzima llamada Cas9 para cortar el ADN en ese lugar. Una vez cortado el ADN, los científicos pueden introducir nuevo material genético para sustituir o modificar la secuencia de ADN original.
+- CRISPR funciona de forma similar: utiliza una molécula llamada ARN como guía para encontrar la secuencia de ADN, y una enzima llamada Cas9 para cortar el ADN en ese lugar. Una vez cortado el ADN, los científicos pueden introducir nuevo material genético para sustituir o modificar la secuencia de ADN original.
 
 ### Bibliografía
 
